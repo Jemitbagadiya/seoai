@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (Sensitive data)
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Database and Temporary Files
+*.db
+tmp/
